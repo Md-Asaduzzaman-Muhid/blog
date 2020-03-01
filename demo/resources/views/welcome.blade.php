@@ -82,7 +82,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Lorem
+                    WelCome To Blog 
                 </div>
             </div>
         </div>
