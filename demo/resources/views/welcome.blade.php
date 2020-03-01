@@ -79,7 +79,7 @@
                     @endauth
                 </div>
             @endif
-
+            <example-component />
             <div class="content">
                 <div class="title m-b-md">
                     WelCome To Blog 
